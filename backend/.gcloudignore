@@ -1,1 +1,3 @@
+.gcloudignore
+/google-cloud-sdk
 /node_modules
